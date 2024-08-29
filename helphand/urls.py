@@ -1,8 +1,8 @@
 from django.contrib import admin
 from django.urls import path
-from apps.helpers.views import IndexView
+from apps.helpers.views import HelpersView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', IndexView.as_view())
+    path('helpers/', HelpersView.as_view())
 ]
