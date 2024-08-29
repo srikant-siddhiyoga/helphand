@@ -53,6 +53,6 @@ pass the  following data as json
 ```
 
 
-# For better understanding of API responses, please import the given POSTMAN collection in POSTMAN
+## For better understanding of API responses, please import the given POSTMAN collection in POSTMAN
 
 
